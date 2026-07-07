@@ -1,14 +1,14 @@
 # **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
 
-### ⚔️ Engineering Manager & code-wielding **berserkr** — a hands-on lead who still ships the code. :thought_balloon:
+### ⚔️ Front-end Technical Manager & code-wielding **berserkr** — a hands-on lead who still ships the code. :thought_balloon:
 
 > *berserkr* (Old Norse, "bear-shirt") — a warrior who charged into battle in a focused fury. I bring the same energy to a codebase — minus the axe. :bear:
 
 ```typescript
 const giovanni: FrontendLead = {
-  role: 'Engineering Manager',
+  role: 'Front-end Technical Manager',
   altitudes: ['hands-on architecture', 'governance above the code'],
-  weaponsOfChoice: ['Angular', 'TypeScript', 'JavaScript', 'micro-frontends', 'design systems'],
+  weaponsOfChoice: ['Angular', 'TypeScript', 'micro-frontends', 'design systems'],
   philosophy: 'lead by building — ship the code you ask others to ship',
   mode: 'controlled berserker fury', // bear-shirt included
   currentlyRaiding: 'quality that scales across teams',
@@ -65,11 +65,11 @@ The governance layer *above* frontend code: **Architecture Decision Records**, a
 # **Battle stats** ⚔️
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berserker95&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Giovanni's GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berserker95&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+  <a href="https://github.com/berserker95?tab=followers"><img src="https://img.shields.io/github/followers/berserker95?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=1c78c0" alt="Followers" /></a>
+  <img src="https://komarev.com/ghpvc/?username=berserker95&style=for-the-badge&label=Profile+views&color=b7178c" alt="Profile views" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berserker95&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=berserker95&hide_border=true&theme=tokyonight&fire=dd0031&currStreakLabel=dd0031" alt="GitHub streak" />
 </p>
 
 
