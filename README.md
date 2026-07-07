@@ -1,53 +1,82 @@
- #  **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
-  :four_leaf_clover: I'm trying to make the world a better place. </br>
+# **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
+
+### ⚔️ Front-end Technical Manager & code-wielding **berserkr** — a hands-on lead who still ships the code. :thought_balloon:
+
+> *berserkr* (Old Norse, "bear-shirt") — a warrior who charged into battle in a focused fury. I bring the same energy to a codebase — minus the axe. :bear:
+
+```typescript
+const giovanni: FrontendLead = {
+  role: 'Front-end Technical Manager',
+  altitudes: ['hands-on architecture', 'governance above the code'],
+  weaponsOfChoice: ['Angular', 'TypeScript', 'micro-frontends', 'design systems'],
+  philosophy: 'lead by building — ship the code you ask others to ship',
+  mode: 'controlled berserker fury', // bear-shirt included
+  currentlyRaiding: 'quality that scales across teams',
+};
+```
 
 # **About me :bear:**
-I use both the logical and creative parts of my brain. I enjoy working as a front-end developer within a team. I stand for quality, innovation, and building useful products with a focus on the human using the product. I am proactive, confident, and communicatively strong, always looking ahead to the future.
+I work between two altitudes: **hands-on architecture** — micro-frontends, design systems, TypeScript — and the **governance layer above the code** that keeps a large frontend estate coherent as it scales across teams and vendors.
 
+I lead by building, not just reviewing. I care about quality that is *measurable*, decisions that are *written down and survive the person who made them*, and products designed around the human actually using them. Proactive, communicative, and always looking one step ahead — like scanning the horizon from the prow of a longship. :sailboat:
 
-:computer: Front-end developer </br>
-:book: Book lover  </br>
-:pencil: Columnist </br>
-:coffee: Coffee lover </br>
-:earth_americas: Wanderlust  </br>
-
+:jigsaw: Micro-frontend architecture & design systems </br>
+:compass: Technical leadership — I still ship the code I ask others to ship </br>
+:book: Book lover &nbsp;·&nbsp; :pencil: Columnist &nbsp;·&nbsp; :coffee: Coffee lover (my mead) &nbsp;·&nbsp; :earth_americas: Wanderlust </br>
 
 
 # **Technologies and tools** 🛠️
 
-[![ANGULAR](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)](https://angular.io/docs)
-[![REACT](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=00aced)](https://it.reactjs.org/docs/getting-started.html)
-[![HTML5](https://img.shields.io/badge/-Html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=e34f26)](https://dev.w3.org/html5/html-author/)
-[![CSS](https://img.shields.io/badge/-Css3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)](https://www.w3.org/Style/CSS/Overview.en.html)
-[![JS](https://img.shields.io/badge/-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e)](https://developer.mozilla.org/it/docs/Web/JavaScript)
+[![ANGULAR](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)](https://angular.dev/)
+[![REACT](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=00aced)](https://react.dev/)
 [![TS](https://img.shields.io/badge/-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178c6)](https://www.typescriptlang.org/docs/)
-[![JQUERY](https://img.shields.io/badge/-JQuery-informational?style=for-the-badge&logo=jquery&logoColor=white&color=0769ad)](https://jquery.com/)
-[![REDUX](https://img.shields.io/badge/-Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=764abc)](https://redux.js.org/)
-[![REACTROUTER](https://img.shields.io/badge/-REACT%20ROUTER-informational?style=for-the-badge&logo=react-router&logoColor=white&color=ca4245)](https://reactrouter.com/)
-[![BOOTSTRAP](https://img.shields.io/badge/-Bootstrap-informational?style=for-the-badge&logo=bootstrap&logoColor=white&color=7952b3)](https://getbootstrap.com/docs/4.1/getting-started/introduction/)
-[![DEVEXPRESS](https://img.shields.io/badge/-Devexpress-informational?style=for-the-badge&logo=devexpress&logoColor=white&color=ff7200)](https://www.devexpress.com/)
-[![MATERIAL](https://img.shields.io/badge/-Material-informational?style=for-the-badge&logo=material-design&logoColor=white&color=757575)](https://material.io/design)
-[![PRIMENG](https://img.shields.io/badge/-PrimeNG-informational?style=for-the-badge&logo=prime-ng&logoColor=white&color=007ad9)](https://www.primefaces.org/primeng/showcase/#/)
-[![NEBULAR](https://img.shields.io/badge/-Nebular-informational?style=for-the-badge&logo=nebular&logoColor=white&color=00bcd4)](https://akveo.com/nebular/docs/guid/getting-started/overview)
+[![JS](https://img.shields.io/badge/-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![RXJS](https://img.shields.io/badge/-RxJS-informational?style=for-the-badge&logo=reactivex&logoColor=white&color=b7178c)](https://rxjs.dev/)
+[![MODULE FEDERATION](https://img.shields.io/badge/-Module%20Federation-informational?style=for-the-badge&logo=webpack&logoColor=white&color=1c78c0)](https://module-federation.io/)
+[![STORYBOOK](https://img.shields.io/badge/-Storybook-informational?style=for-the-badge&logo=storybook&logoColor=white&color=ff4785)](https://storybook.js.org/)
+[![HTML5](https://img.shields.io/badge/-Html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=e34f26)](https://developer.mozilla.org/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-Css3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)](https://developer.mozilla.org/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)](https://sass-lang.com/)
-[![VSCODE](https://img.shields.io/badge/-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007acc)](https://code.visualstudio.com/)
-[![VS](https://img.shields.io/badge/-Visual%20Studio-informational?style=for-the-badge&logo=visual-studio&logoColor=white&color=5c2d91)](https://visualstudio.microsoft.com/it/)
-[![ADS](https://img.shields.io/badge/-Azure%20DevOps-informational?style=for-the-badge&logo=azure-devops&logoColor=white&color=0078d7)](https://azure.microsoft.com/it-it/services/devops/server/)
+[![NODE](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933)](https://nodejs.org/)
+[![JEST](https://img.shields.io/badge/-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=c21325)](https://jestjs.io/)
 [![GIT](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)](https://git-scm.com/doc)
 [![GITHUB](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/)
-[![ELECTRON](https://img.shields.io/badge/-Electron-informational?style=for-the-badge&logo=electron&logoColor=white&color=47848f)](https://www.electronjs.org/)
-[![WEBPACK](https://img.shields.io/badge/-Webpack-informational?style=for-the-badge&logo=webpack&logoColor=white&color=00aced)](https://webpack.js.org/)
+[![ADS](https://img.shields.io/badge/-Azure%20DevOps-informational?style=for-the-badge&logo=azuredevops&logoColor=white&color=0078d7)](https://azure.microsoft.com/products/devops)
+[![VSCODE](https://img.shields.io/badge/-VS%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007acc)](https://code.visualstudio.com/)
 
 
-# **Projects** 🚀
+# **Featured project** ⭐
+
+### [Frontend Governance Toolkit](https://github.com/berserker95/frontend-governance-toolkit)
+The governance layer *above* frontend code: **Architecture Decision Records**, a **measurable code-review methodology**, and **design-system compliance checks** enforced in CI. It packages repeatable answers to the real problems of scale — how many teams stay consistent, how you hold a vendor to a quality bar, and why an architecture was chosen — as artifacts that outlive the person who wrote them.
+
+[![Repo](https://img.shields.io/badge/-Frontend%20Governance%20Toolkit-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/berserker95/frontend-governance-toolkit)
+
+
+# **Other projects** 🚀
 
 | Name | Category | Description | Links |
 | --- | :---: | --- | --- |
-| <a href="https://simple-angular-todo-list.vercel.app/"  target="_blank"><b>Todo list</b></a> | [![](https://img.shields.io/badge/📝-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 🖊️A simple todo list to organize your days | <table><tr><td>  [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95/simple-angular-todo-list) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://simple-angular-todo-list.vercel.app/)  </td></tr></table>
-<a href="https://670fdb7d21719f9f8a533b1f--frabjous-douhua-483b6d.netlify.app/" target="_blank"><b>TextEditorShowCase</b></a> | [![](https://img.shields.io/badge/📝-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 🖋️ A rich text editor application built with Angular using ngx-editor, quill.js and syncfusion. | <table><tr><td>  [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95/text-editor-showcase) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://670fdb7d21719f9f8a533b1f--frabjous-douhua-483b6d.netlify.app/)  </td></tr></table>
+| <a href="https://github.com/berserker95/nutri-app-booking" target="_blank"><b>Nutri App Booking</b></a> | [![](https://img.shields.io/badge/📅-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 🥗 Nutrition consultation booking app — Angular 20, TypeScript, Tailwind, Zod validation | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95/nutri-app-booking) </td></tr></table> |
+| <a href="https://github.com/berserker95/angular-gemini-chatbot" target="_blank"><b>Angular Gemini Chatbot</b></a> | [![](https://img.shields.io/badge/🤖-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 💬 Angular app integrating Google Gemini for an intelligent search experience | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95/angular-gemini-chatbot) </td></tr></table> |
+| <a href="https://simple-angular-todo-list.vercel.app/" target="_blank"><b>Todo List</b></a> | [![](https://img.shields.io/badge/📝-%20App-informational?style=flat&logoColor=white&color=3498db)]() | 🖊️ A simple todo list to organize your days | <table><tr><td> [![](https://img.shields.io/badge/--informational?style=flat&logo=github&logoColor=black&color=white)](https://github.com/berserker95/simple-angular-todo-list) </td><td> [![](https://img.shields.io/badge/-🌎-informational?style=flat&logoColor=black&color=white)](https://simple-angular-todo-list.vercel.app/) </td></tr></table> |
+
+
+# **Battle stats** ⚔️
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=berserker95&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" alt="Giovanni's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berserker95&layout=compact&hide_border=true&theme=tokyonight&langs_count=8" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=berserker95&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+</p>
+
 
 # **Reach me on** 📫
 [![LINKEDIN](https://img.shields.io/badge/-Linkedin-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0a66c2)](https://www.linkedin.com/in/giovanni-albano-14a2a0194/)
 [![INSTAGRAM](https://img.shields.io/badge/-Instagram-informational?style=for-the-badge&logo=instagram&logoColor=white&color=e4405f)](https://www.instagram.com/ber_serker95/)
 [![FACEBOOK](https://img.shields.io/badge/-Facebook-informational?style=for-the-badge&logo=facebook&logoColor=white&color=1877f2)](https://www.facebook.com/giovanni.albano.353/)
-[![SKYPE](https://img.shields.io/badge/-Skype-informational?style=for-the-badge&logo=skype&logoColor=white&color=00aff0)](https://join.skype.com/invite/euMHLgUSepD6)
+
+---
+<sub>⚔️ <i>Skål</i> — thanks for scrolling this far. May your builds be green and your merges conflict-free.</sub>
