@@ -10,8 +10,10 @@ const giovanni: FrontendLead = {
   altitudes: ['hands-on architecture', 'governance above the code'],
   weaponsOfChoice: ['Angular', 'TypeScript', 'micro-frontends', 'design systems'],
   philosophy: 'lead by building — ship the code you ask others to ship',
+  augmentedBy: ['Claude Code', 'LLMs', 'agentic workflows'],
+  alsoGuards: ['app security', 'OWASP', 'secure-by-design'],
   mode: 'controlled berserker fury', // bear-shirt included
-  currentlyRaiding: 'quality that scales across teams',
+  currentlyRaiding: 'quality (and AI leverage) that scales across teams',
 };
 ```
 
@@ -27,18 +29,44 @@ I lead by building, not just reviewing. I care about quality that is *measurable
 
 # **Technologies and tools** 🛠️
 
+**Frontend & core**
+
 [![ANGULAR](https://img.shields.io/badge/-Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=dd0031)](https://angular.dev/)
 [![REACT](https://img.shields.io/badge/-React-informational?style=for-the-badge&logo=react&logoColor=white&color=00aced)](https://react.dev/)
 [![TS](https://img.shields.io/badge/-Typescript-informational?style=for-the-badge&logo=typescript&logoColor=white&color=3178c6)](https://www.typescriptlang.org/docs/)
 [![JS](https://img.shields.io/badge/-Javascript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=f7df1e)](https://developer.mozilla.org/docs/Web/JavaScript)
 [![RXJS](https://img.shields.io/badge/-RxJS-informational?style=for-the-badge&logo=reactivex&logoColor=white&color=b7178c)](https://rxjs.dev/)
 [![MODULE FEDERATION](https://img.shields.io/badge/-Module%20Federation-informational?style=for-the-badge&logo=webpack&logoColor=white&color=1c78c0)](https://module-federation.io/)
+[![MICRO-FRONTENDS](https://img.shields.io/badge/-Micro--Frontends-informational?style=for-the-badge&logo=micro.blog&logoColor=white&color=6d4aff)](https://micro-frontends.org/)
 [![STORYBOOK](https://img.shields.io/badge/-Storybook-informational?style=for-the-badge&logo=storybook&logoColor=white&color=ff4785)](https://storybook.js.org/)
 [![HTML5](https://img.shields.io/badge/-Html5-informational?style=for-the-badge&logo=html5&logoColor=white&color=e34f26)](https://developer.mozilla.org/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-Css3-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)](https://developer.mozilla.org/docs/Web/CSS)
 [![SASS](https://img.shields.io/badge/-Sass-informational?style=for-the-badge&logo=sass&logoColor=white&color=cc6699)](https://sass-lang.com/)
 [![NODE](https://img.shields.io/badge/-Node.js-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=339933)](https://nodejs.org/)
 [![JEST](https://img.shields.io/badge/-Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=c21325)](https://jestjs.io/)
+
+**AI & agentic engineering** 🤖
+
+[![CLAUDE CODE](https://img.shields.io/badge/-Claude%20Code-informational?style=for-the-badge&logo=anthropic&logoColor=white&color=d97757)](https://www.anthropic.com/claude-code)
+[![MCP](https://img.shields.io/badge/-Model%20Context%20Protocol-informational?style=for-the-badge&logo=anthropic&logoColor=white&color=d97757)](https://modelcontextprotocol.io/)
+[![LLMS](https://img.shields.io/badge/-LLMs%20%2F%20GenAI-informational?style=for-the-badge&logo=openai&logoColor=white&color=412991)](https://platform.openai.com/docs)
+[![GEMINI](https://img.shields.io/badge/-Gemini-informational?style=for-the-badge&logo=googlegemini&logoColor=white&color=886fbf)](https://ai.google.dev/)
+[![COPILOT](https://img.shields.io/badge/-GitHub%20Copilot-informational?style=for-the-badge&logo=githubcopilot&logoColor=white&color=8957e5)](https://github.com/features/copilot)
+[![PROMPT ENG](https://img.shields.io/badge/-Prompt%20Engineering-informational?style=for-the-badge&logo=probot&logoColor=white&color=10a37f)]()
+[![RAG](https://img.shields.io/badge/-RAG-informational?style=for-the-badge&logo=databricks&logoColor=white&color=5a67d8)]()
+[![AI AGENTS](https://img.shields.io/badge/-AI%20Agents-informational?style=for-the-badge&logo=dependabot&logoColor=white&color=ff6f61)]()
+
+**Security & quality** 🔒
+
+[![OWASP](https://img.shields.io/badge/-OWASP-informational?style=for-the-badge&logo=owasp&logoColor=white&color=000000)](https://owasp.org/)
+[![APPSEC](https://img.shields.io/badge/-Application%20Security-informational?style=for-the-badge&logo=hackthebox&logoColor=white&color=c0392b)]()
+[![DEVSECOPS](https://img.shields.io/badge/-DevSecOps-informational?style=for-the-badge&logo=redhat&logoColor=white&color=e67e22)]()
+[![SAST](https://img.shields.io/badge/-SAST%20%2F%20DAST-informational?style=for-the-badge&logo=sonarqube&logoColor=white&color=8e44ad)]()
+[![SNYK](https://img.shields.io/badge/-Snyk-informational?style=for-the-badge&logo=snyk&logoColor=white&color=4c4a73)](https://snyk.io/)
+[![SECURE CODING](https://img.shields.io/badge/-Secure%20by%20Design-informational?style=for-the-badge&logo=letsencrypt&logoColor=white&color=2c3e50)]()
+
+**Platform & tooling**
+
 [![GIT](https://img.shields.io/badge/-Git-informational?style=for-the-badge&logo=git&logoColor=white&color=f05032)](https://git-scm.com/doc)
 [![GITHUB](https://img.shields.io/badge/-GitHub-informational?style=for-the-badge&logo=github&logoColor=white&color=181717)](https://github.com/)
 [![ADS](https://img.shields.io/badge/-Azure%20DevOps-informational?style=for-the-badge&logo=azuredevops&logoColor=white&color=0078d7)](https://azure.microsoft.com/products/devops)
@@ -69,7 +97,8 @@ The governance layer *above* frontend code: **Architecture Decision Records**, a
   <img src="https://komarev.com/ghpvc/?username=berserker95&style=for-the-badge&label=Profile+views&color=b7178c" alt="Profile views" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=berserker95&hide_border=true&theme=tokyonight&fire=dd0031&currStreakLabel=dd0031" alt="GitHub streak" />
+  <a href="https://github.com/berserker95/frontend-governance-toolkit"><img src="https://img.shields.io/github/stars/berserker95/frontend-governance-toolkit?style=for-the-badge&logo=github&logoColor=white&label=Toolkit%20stars&color=dd0031" alt="Frontend Governance Toolkit stars" /></a>
+  <a href="https://github.com/berserker95/frontend-governance-toolkit/commits/main"><img src="https://img.shields.io/github/last-commit/berserker95/frontend-governance-toolkit?style=for-the-badge&logo=git&logoColor=white&label=Last%20raid&color=f05032" alt="Last commit on the toolkit" /></a>
 </p>
 
 
