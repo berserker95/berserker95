@@ -18,11 +18,15 @@ const giovanni: FrontendLead = {
 ```
 
 # **About me :bear:**
-I work between two altitudes: **hands-on architecture** — micro-frontends, design systems, TypeScript — and the **governance layer above the code** that keeps a large frontend estate coherent as it scales across teams and vendors.
+I work across three altitudes: **hands-on architecture** — micro-frontends, design systems, TypeScript — the **governance layer above the code** that keeps a large frontend estate coherent as it scales across teams and vendors, and the **AI leverage** that lets a team punch above its size.
 
-I lead by building, not just reviewing. I care about quality that is *measurable*, decisions that are *written down and survive the person who made them*, and products designed around the human actually using them. Proactive, communicative, and always looking one step ahead — like scanning the horizon from the prow of a longship. :sailboat:
+I lead by building, not just reviewing. Today that means pairing with agentic tooling — Claude Code, LLMs, MCP — to move faster *without lowering the bar*, and treating **security as a first-class citizen** rather than a checklist bolted on at the end: OWASP-aware reviews, secure-by-design defaults, and secrets kept where they belong.
+
+What I truly care about: quality that is *measurable*, decisions that are *written down and survive the person who made them*, and products designed around the human actually using them. Proactive, communicative, and always looking one step ahead — like scanning the horizon from the prow of a longship. :sailboat:
 
 :jigsaw: Micro-frontend architecture & design systems </br>
+:robot: AI-augmented engineering — agentic workflows, done responsibly </br>
+:shield: Security-minded — OWASP, DevSecOps, secure-by-design </br>
 :compass: Technical leadership — I still ship the code I ask others to ship </br>
 :book: Book lover &nbsp;·&nbsp; :pencil: Columnist &nbsp;·&nbsp; :coffee: Coffee lover (my mead) &nbsp;·&nbsp; :earth_americas: Wanderlust </br>
 
