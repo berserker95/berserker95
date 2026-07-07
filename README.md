@@ -1,12 +1,13 @@
 # **Hi, I'm Giovanni <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">**
 
-### ⚔️ Front-end Technical Manager & code-wielding **berserkr** — a hands-on lead who still ships the code. :thought_balloon:
+### ⚔️ Engineering Manager & code-wielding **berserkr** — a hands-on lead who still ships the code. :thought_balloon:
 
 > *berserkr* (Old Norse, "bear-shirt") — a warrior who charged into battle in a focused fury. I bring the same energy to a codebase — minus the axe. :bear:
 
 ```typescript
 const giovanni: FrontendLead = {
-  role: 'Front-end Technical Manager',
+  role: 'Engineering Manager',
+  background: 'front-end — micro-frontends & design systems',
   altitudes: ['hands-on architecture', 'governance above the code'],
   weaponsOfChoice: ['Angular', 'TypeScript', 'micro-frontends', 'design systems'],
   philosophy: 'lead by building — ship the code you ask others to ship',
